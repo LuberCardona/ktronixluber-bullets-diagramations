@@ -73,4 +73,4 @@ Ninguna
 Ninguna
 
 ## Contributors
-1. Luber María Cardona Vargasw de la tienda
+1. Luber María Cardona Vargas
